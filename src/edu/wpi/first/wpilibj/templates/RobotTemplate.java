@@ -4,6 +4,7 @@
 /* must be accompanied by the FIRST BSD license file in the root directory of */
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
+//Simon's comment
 package edu.wpi.first.wpilibj.templates;
 
 import edu.wpi.first.wpilibj.*;
